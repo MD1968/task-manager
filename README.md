@@ -1,6 +1,6 @@
 # Code Institute
 
-Welcome Mark Dyson,
+Welcome Mark Dyson - Silverheath Limited.
 
 We have preinstalled all of the tools you need to get started.
 
